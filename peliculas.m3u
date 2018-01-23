@@ -1,21 +1,4 @@
 #EXTM3U
 
-#EXTINF:-1 tvg-logo="https://dragonball-super.org/wp-content/uploads/2015/05/Dragon-Ball-Z-La-Resurrecci%C3%B3n-de-F.jpg" group-title="PREMIER IPTV DOB",DBZ La Resurrecion de Freezer (2015)
-https://archive.org/download/DBZLaResurreccionDeFreezer/DBZLa%20Resurreccion%20de%20Freezer.mp4
-#EXTINF:-1 tvg-logo="https://store.playstation.com/store/api/chihiro/00_09_000/container/MX/es/999/UV0001-NPVB31624_CN-0000000000342020/1509031835000/image?_version=00_09_000&platform=chihiro&w=225&h=225&bg_color=000000&opacity=100" group-title="PREMIER IPTV DOB", SpiderMan Homecoming (2017)
-https://1fhjlka.oloadcdn.net/dl/l/DEeztE8o4-ECz_O4/BXgsL99spXU/Spider-Man+Homecoming+2017+1080p+lat.mkv.mp4?mime=true
-#EXTINF:-1 tvg-logo="https://m.aceshowbiz.com/webimages/still/hazlo-como-hombre-poster03.jpg",Hazlo como hombre
-https://archive.org/download/hazlo/hazlo.mp4
-#EXTINF:-1 tvg-logo="https://www.todaysparent.com/wp-content/uploads/2017/12/kids-movies-and-shows-coming-to-netflix-canada-this-January-2018-1280x960-Cars3-1024x576-1513624658.jpg", Cars 3
-https://archive.org/download/Cars-3-201801/Cars3.mp4
-#EXTINF:-1 tvg-logo="https://cdn.empireonline.com/jpg/70/0/0/1280/960/aspectfit/0/0/0/0/0/0/c/articles/59f07aa7fd01b54108b23c16/DH2_1Sht_Previews_S.jpg",Guerra de Papas 2
-https://archive.org/download/d4ddys.h0m3.2.2017.tshq.latino.gnula/d4ddys.h0m3.2.2017.tshq.latino.gnula.mp4
-#EXTINF:-1 tvg-logo="http://www.retornoanime.com/wp-content/uploads/2017/11/coco_main.jpg", COCO (2017)
-https://archive.org/download/c0c0.DVDSCR.LAT.avi/c0c0.DVDSCR.LAT.avi.mp4
-#EXTINF:-1 tvg-logo="https://cdn.hobbyconsolas.com/sites/navi.axelspringer.es/public/styles/gallery_big/public/media/image/2017/09/saw-viii_4.jpg?itok=26HgDdy4", Saw 8 (2017)
-https://1fiagfa.oloadcdn.net/dl/l/oBvhMtiuCJwfHwj4/1nLAC-Y3XC8/mp718295471.mp4?mime=true
-#EXTINF:-1 tvg-logo="https://image.tmdb.org/t/p/original/6uDpMsdn8bbZScDptbika5JEtSH.jpg"
-https://1fizp0e.oloadcdn.net/dl/l/jIsLcAesvh7PPZ-P/RGLoqENPG98/SA430.173S0.1080+%282%29.mkv.mp4?mime=true
-#EXTINF:-1 tvg-logo=""
-https://1fizp0e.oloadcdn.net/dl/l/jIsLcAesvh7PPZ-P/RGLoqENPG98/SA430.173S0.1080+%282%29.mkv.mp4?mime=true
-
+#EXTINF:-1 tvg-logo="http://www.sonypictures.com/movies/hoteltransylvania2/assets/images/onesheet.jpg", Hotel Transylvania 2
+https://1fiag10.oloadcdn.net/dl/l/VNJOa2YjsgSVnNHJ/UDwb3S9Jnk8/h0t3l.tr4nsylv4n14.2015.hdrip.latino.avi.mp4?mime=true
